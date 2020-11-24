@@ -6,12 +6,6 @@
 - 🔭 Atualmente, estou aprimorando meus conhecimentos com RPA;
 - 🤝 Sempre estou buscando conhecimento em novas ferramentas e tecnologias; 
 
-<h4 align="left">🌐 Connect with me:</h4>
-
-  <!--Linkdin--><a href="www.linkedin.com/in/wag0liveira" target="_blank">Wagner Oliveira> </a> 
-
-
-
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
   <!--HTML5--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 

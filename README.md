@@ -8,7 +8,7 @@
 
 <h4 align="left">🌐 Connect with me:</h4>
 
-  <!--Linkdin--><a href="www.linkedin.com/in/wag0liveira" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="wagner oliveira" width="40" height="40"/> </a> 
+  <!--Linkdin--><a href="www.linkedin.com/in/wag0liveira" target="_blank">Wagner Oliveira> </a> 
 
 
 
@@ -32,7 +32,7 @@
   
   <!--Python--><a href="https://python.org.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>
 
-  <!--RPA Uipath--><a href="https://www.uipath.com/pt/" target="_blank"> <img src="https://www.guru99.com/images/1/051818_1129_UiPathTutor5.png" alt="uipath" width="40" height="40"/> </a>  </p>
+  <!--RPA Uipath--><a href="https://www.uipath.com/pt/" target="_blank"> <img src="https://www.guru99.com/images/1/051818_1129_UiPathTutor5.png" alt="uipath" width="50" height="40"/> </a>  </p>
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
 

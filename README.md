@@ -32,4 +32,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/wag0liveira/" ><img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" width="40" height="40"> </a><h4 align="left">🌐 Connect with me:</h4
+<h4 align="left">🌐 Connect with me:</h4>
+<a href="https://www.linkedin.com/in/wag0liveira/" ><img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" width="40" height="40"> </a>

@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/wag0liveira/" ><img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png"> </a>

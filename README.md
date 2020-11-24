@@ -8,7 +8,7 @@
 
 <h4 align="left">🌐 Connect with me:</h4>
 <p align="left">
-  <a href="www.linkedin.com/in/wagoliveira/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Wagner Oliveira"    height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/wag0liveira" target="_blank"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Wagner Oliveira"    height="30" width="40" /></a>
 </p>
 
 <h4 align="left">🛠️ Languages and Tools:</h4>

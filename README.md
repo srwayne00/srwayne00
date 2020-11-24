@@ -29,7 +29,7 @@
   
   <!--C#--><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> </a> </p>
   
-  <!--Python--><a href="https://python.org.br/" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/python.png"/>" alt="python" width="40" height="40"/> </a> </p>
+  <!--Python--><a href="https://python.org.br/" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
 

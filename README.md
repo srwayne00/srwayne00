@@ -7,7 +7,7 @@
 - 🤝 Sempre estou buscando conhecimento em novas ferramentas e tecnologias; 
 
 <h4 align="left">🌐 Connect with me:
-  <a href="www.linkedin.com/in/wag0liveira/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Wagner Oliveira" height="30" width="40"/> </a> 
+  <a href="www.linkedin.com/in/wag0liveira/" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" height="30" width="40"/> </a> 
 </h4>
 
 

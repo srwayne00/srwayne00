@@ -7,8 +7,8 @@
 - 🤝 Sempre estou buscando conhecimento em novas ferramentas e tecnologias; 
 
 <h4 align="left">🌐 Connect with me:</h4>
-<a href="www.linkedin.com/in/wag0liveira/" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" height="30" width="40"/> </a> 
-  <!--HTML5--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+  <!--Linkdin--><a href="www.linkedin.com/in/wag0liveira" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="wagner oliveira" width="40" height="40"/> </a> 
 
 
 

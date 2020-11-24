@@ -6,9 +6,9 @@
 - 🔭 Atualmente, estou aprimorando meus conhecimentos com RPA;
 - 🤝 Sempre estou buscando conhecimento em novas ferramentas e tecnologias; 
 
-<h4 align="left">🌐 Connect with me:
-  <a href="www.linkedin.com/in/wag0liveira/" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" height="30" width="40"/> </a> 
-</h4>
+<h4 align="left">🌐 Connect with me:</h4>
+<a href="www.linkedin.com/in/wag0liveira/" target="_blank"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" height="30" width="40"/> </a> 
+
 
 
 <h4 align="left">🛠️ Languages and Tools:</h4>

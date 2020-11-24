@@ -1,4 +1,4 @@
-<h2 align="center">Olá👋, Eu sou Wagner Oliveira</h2>
+<h2 align="center">Olá👋, Eu sou o Wagner Oliveira</h2>
 
 <h4 align="left">✨ Features.</h4>
 

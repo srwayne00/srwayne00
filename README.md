@@ -4,7 +4,7 @@
 
 - 🎓 Estou estudando Analise e Desenvolvimento de Sistemas e não estou procurando vagas no momento;
 - 🔭 Atualmente, estou aprimorando meus conhecimentos com RPA;
-- 🤝 Sempre estou buscando conhecimento em novas ferramentas e tecnologias; 
+- 🤝 Passatempo, buscar novos conhecimento, ferramentas e tecnologias; 
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 

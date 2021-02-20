@@ -20,7 +20,7 @@
    
   <!--MySql--><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a> 
   
-  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="JAVA" width="40" height="40"/> </a>           
+  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="<img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="40" height="40"/> </a>           
   
   <!--C#--><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> </a> 
   

@@ -15,10 +15,12 @@
   <!--Javascript--><a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/> </a>  
 
   <!--Git--><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   
-  <!--MySql--><a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
-  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/> </a>           
+  <!--Bootstrap--><a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> </a> 
+   
+  <!--MySql--><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a> 
+  
+  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="JAVA" width="40" height="40"/> </a>           
   
   <!--C#--><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> </a> 
   

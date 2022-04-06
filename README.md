@@ -2,8 +2,8 @@
 
 <h4 align="left">✨ Features.</h4>
 
-- 🎓 Estou estudando Analise e Desenvolvimento de Sistemas e não estou procurando vagas no momento;
-- 🔭 Atualmente, estou aprimorando meus conhecimentos com RPA;
+- 🎓 Tenho formação de tecnologo em Analise e Desenvolvimento de Sistemas;
+- 🔭 Atualmente, estou desenvolvendo soluções em RPA;
 - 🤝 Passatempo, buscar novos conhecimento, ferramentas e tecnologias; 
 
 <h4 align="left">🛠️ Languages and Tools:</h4>

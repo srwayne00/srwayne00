@@ -8,7 +8,7 @@
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
-  <!--HTML5--><a href="https://www.w3.org/html/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
+  <!--HTML5--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
   
   <!--CSS3--><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
   
@@ -18,9 +18,11 @@
   
   <!--Bootstrap--><a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> </a> 
    
-  <!--MySql--><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a> 
+  <!--MySql--><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/> </a>
   
-  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="<img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="40" height="40"/> </a>           
+  
+  <!--JAVA--><a href="https://www.java.com/en/" target="_blank"> <img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="40" height="40"/> </a>           
+  
   
   <!--C#--><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> </a> 
   

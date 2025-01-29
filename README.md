@@ -64,8 +64,7 @@
 
 <h4 align="left"> 🌐 Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/" target="_blank"> 
-    <h2 align="left"> Wagner Oliveira</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="git" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="git" width="55" height="40"/> 
   </a> 
 

@@ -34,8 +34,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="left">🌐 Connect with me:</h4>
+<h4 align="left"> 🌐 Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="[https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)" alt="Wagner Oliveira" width="40" height="40"> </a>
+<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="https://drive.google.com/file/d/1Tjmc23NOvkBSRihkYK30j6k6b5axDKNt/view?usp=drive_link" alt="Wagner Oliveira" width="40" height="40"> </a>
 
 

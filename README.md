@@ -36,6 +36,6 @@
 
 <h4 align="left"> 🌐 Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="https://drive.google.com/file/d/1Tjmc23NOvkBSRihkYK30j6k6b5axDKNt/view?usp=drive_link" alt="Wagner Oliveira" width="40" height="40"> </a>
+<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="[[https://drive.google.com/file/d/1Tjmc23NOvkBSRihkYK30j6k6b5axDKNt/view?usp=drive_link](https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr)](https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr)" alt="Wagner Oliveira" width="40" height="40"> </a>
 
 

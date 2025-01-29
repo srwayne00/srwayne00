@@ -36,6 +36,6 @@
 
 <h4 align="left">🌐 Connect with me:</h4>
 <a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png" alt="Wagner Oliveira" width="40" height="40"> </a>
-<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="[https://www.camillalichti.com/wp-content/uploads/2013/10/linkedin-ico.png](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)" alt="Wagner Oliveira" width="40" height="40"> </a>
+<a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)" alt="Wagner Oliveira" width="40" height="40"> </a>
 
 

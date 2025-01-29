@@ -8,9 +8,15 @@
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
-  <!--HTML5--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
+  <!--HTML5-->
+  <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
+  </a> 
   
-  <!--CSS3--><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
+  <!--CSS3-->
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> 
+  </a> 
   
   <!--Javascript--><a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/> </a>  
 

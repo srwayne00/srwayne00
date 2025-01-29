@@ -1,10 +1,10 @@
-<h2 align="center">Olá👋, Eu sou o Wagner Oliveira</h2>
+<h2 align="center">Hello👋, I´m Wagner Oliveira, but you call me Wag</h2>
 
 <h4 align="left">✨ Features.</h4>
 
-- 🎓 Tenho formação de tecnologo em Analise e Desenvolvimento de Sistemas;
-- 🔭 Atualmente, estou desenvolvendo soluções em RPA;
-- 🤝 Passatempo, buscar novos conhecimento, ferramentas e tecnologias; 
+- 🎓 I had graduated in Analisys and System Development, By Uniderp;
+- 🔭 Actually, I am studiyng and praticting automation using Python;
+- 🤝 I Had 3.5 years of experience did automation with UiPath 
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 

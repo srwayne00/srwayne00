@@ -1,4 +1,5 @@
-<h2 align="center">Hello👋, I´m Wagner Oliveira, but you call me Wag</h2>
+<h2 align="center">Hello👋, I´m Wagner Oliveira, but you can call me Wag</h2>
+
 
 <h4 align="left">✨ Features.</h4>
 
@@ -8,6 +9,22 @@
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
+
+  <!--RPA Uipath-->
+  <a href="https://www.uipath.com/pt/" target="_blank"> 
+    <img src="https://www.guru99.com/images/1/051818_1129_UiPathTutor5.png" alt="uipath" width="50" height="40"/> </a>  
+  </p>
+
+  <!--C#-->
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> 
+  </a> 
+
+  <!--Python-->
+  <a href="https://python.org.br/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> 
+  </a>
+  
   <!--HTML5-->
   <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
@@ -42,29 +59,15 @@
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="40" height="40"/> 
   </a>           
-  
-  <!--C#-->
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> 
-  </a> 
-  
-  <!--Python-->
-  <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> 
-  </a>
 
-  <!--RPA Uipath-->
-  <a href="https://www.uipath.com/pt/" target="_blank"> 
-    <img src="https://www.guru99.com/images/1/051818_1129_UiPathTutor5.png" alt="uipath" width="50" height="40"/> </a>  
-  </p>
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
+  <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left"> 🌐 Connect with me:</h4>
 
   <a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="git" width="60" height="40"/> 
   </a> 
-
+</p> 

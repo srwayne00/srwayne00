@@ -2,13 +2,13 @@
 
 <h4 align="left">✨ Features.</h4>
 
-- 🎓 I had graduated in Analisys and System Development, By Uniderp;
-- 🔭 Actually, I am studiyng and praticting automation using Python;
-- 🤝 I Had 3.5 years of experience did automation with UiPath 
+- 🎓  I have a degree in Systems Analysis and Development, from Uniderp;
+- 🔭 I am currently studying and practicing automation using Python;
+- 🤝 I had 3.5 years of experience developing automations with UiPath;
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
-  <!--HTML5--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
+  <!--HTML5--><a href="https://www.w3.org/html/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
   
   <!--CSS3--><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
   

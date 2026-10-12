@@ -19,6 +19,12 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="40" height="40"/> 
   </a> 
 
+<!--agile-->
+  <a href="https://python.org.br/" target="_blank"> 
+    <img src="https://drive.google.com/drive/folders/1sPSqaOsyrl73atuV0xeKBNbweekyhuek" alt="agile" width="40" height="40"/> 
+  </a>
+
+
   <!--Python-->
   <a href="https://python.org.br/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> 

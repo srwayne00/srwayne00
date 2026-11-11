@@ -21,7 +21,7 @@
 
 <!--agile-->
   <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://coodesh.com/blog/wp-content/uploads/2021/07/metodo-agile-1-1536x864.jpg" alt="agile" width="100" height="80"/> 
+    <img src="https://i0.wp.com/blog.mocsolucoes.com.br/wp-content/uploads/2023/05/W2-blog10-Scrum-vs-kanban-980x478-1.jpg" alt="agile" width="100" height="80"/> 
   </a>
 
 

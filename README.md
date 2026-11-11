@@ -16,7 +16,7 @@
 
   <!--C#-->
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="100" height="80"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="120" height="120"/> 
   </a> 
 
 <!--agile-->

@@ -12,7 +12,7 @@
 
   <!--RPA Uipath-->
   <a href="https://www.uipath.com/pt/" target="_blank"> 
-    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="50" height="40"/> </a>  
+    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="80" height="60"/> </a>  
 
   <!--C#-->
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
@@ -66,13 +66,9 @@
   </a>           
 
 
-  <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=srwayne00&show_icons=true&locale=en" alt="srwayne00" /></p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwayne00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h4 align="left"> 🌐 Connect with me:</h4>
 
   <a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="git" width="80" height="40"/> 
+    <img src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:b8f3ee9e-f87f-431f-8176-3c24719ecf7b/original/as/brandg-business-linkedin-logo-dsk-v03-png-original.png" alt="git" width="80" height="40"/> 
   </a> 
 </p> 

@@ -16,14 +16,22 @@
   <a href="https://www.uipath.com/pt/" target="_blank"> 
     <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="150" height="120" /> </a>  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!--C#-->
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="120" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <!--MySql-->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="150" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    
+  <!--JAVA-->
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="150" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!--agile-->
+  <!--agile-->
   <a href="https://agilealliance.org/agile101/" target="_blank"> 
     <img src="https://i0.wp.com/blog.mocsolucoes.com.br/wp-content/uploads/2023/05/W2-blog10-Scrum-vs-kanban-980x478-1.jpg" alt="agile" width="150" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!--C#-->
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C Sharp" width="120" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    
   <!--Python-->
   <a href="https://python.org.br/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="120" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,15 +56,7 @@
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="120" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
    
-  <!--MySql-->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="150" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-    
-  <!--JAVA-->
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://www.orafaq.com/wiki/images/thumb/2/21/Java_logo.jpg/300px-Java_logo.jpg" alt="JAVA" width="150" height="120"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-
-
+  
 <h4 align="left"> 🌐 Connect with me:</h4>
 
   <a href="https://www.linkedin.com/in/wagner-anastacio-oliveira/" target="_blank"> 

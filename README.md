@@ -20,14 +20,14 @@
   </a> 
 
 <!--agile-->
-  <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://i0.wp.com/blog.mocsolucoes.com.br/wp-content/uploads/2023/05/W2-blog10-Scrum-vs-kanban-980x478-1.jpg" alt="agile" width="100" height="80"/> 
+  <a href="https://agilealliance.org/agile101/" target="_blank"> 
+    <img src="https://i0.wp.com/blog.mocsolucoes.com.br/wp-content/uploads/2023/05/W2-blog10-Scrum-vs-kanban-980x478-1.jpg" alt="agile" width="150" height="120"/> 
   </a>
 
 
   <!--Python-->
   <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="100" height="80"/> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="120" height="120"/> 
   </a>
   
   <!--HTML5-->

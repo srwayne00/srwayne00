@@ -21,7 +21,7 @@
 
 <!--agile-->
   <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://drive.google.com/drive/folders/1sPSqaOsyrl73atuV0xeKBNbweekyhuek" alt="agile" width="40" height="40"/> 
+    <img src="https://coodesh.com/blog/wp-content/uploads/2021/07/metodo-agile-1-1536x864.jpg" alt="agile" width="40" height="40"/> 
   </a>
 
 
@@ -32,12 +32,12 @@
   
   <!--HTML5-->
   <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
   </a> 
   
   <!--CSS3-->
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> 
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> 
   </a> 
   
   <!--Javascript-->
@@ -52,7 +52,7 @@
   
   <!--Bootstrap-->
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
    
   <!--MySql-->

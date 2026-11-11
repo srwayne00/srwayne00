@@ -34,27 +34,27 @@
     
   <!--Python-->
   <a href="https://python.org.br/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
   
   <!--HTML5-->
   <a href="https://www.w3schools.com/html/" target="_blank"> 
-      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
   
   <!--CSS3-->
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"> 
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
+    
   <!--Javascript-->
   <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
 
   <!--Git-->
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
+    
   <!--Bootstrap-->
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp;
    
   
 <h4 align="left"> 🌐 Connect with me:</h4>

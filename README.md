@@ -7,6 +7,12 @@
 - 🔭 I am currently studying and practicing automation using Python;
 - 🤝 I had 3.5 years of experience developing automations with UiPath;
 
+<style>
+  .imagem-espacada {
+    margin-right: 15px; /* Adiciona 15 pixels de espaço à direita */
+  }
+</style>
+
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
 

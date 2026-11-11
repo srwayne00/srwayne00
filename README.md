@@ -12,7 +12,7 @@
 
   <!--RPA Uipath-->
   <a href="https://www.uipath.com/pt/" target="_blank"> 
-    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="100" height="80"/> </a>  
+    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="150" height="120"/> </a>  
 
   <!--C#-->
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 

@@ -12,7 +12,7 @@
 
   <!--RPA Uipath-->
   <a href="https://www.uipath.com/pt/" target="_blank"> 
-    <img src="https://www.guru99.com/images/1/051818_1129_UiPathTutor5.png" alt="uipath" width="50" height="40"/> </a>  
+    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nShxLAj7VoL8IYid_apoRPI6y1JVYsaDd5uVt3hNXa9Dlu5BTkDA1tE&s=10]" alt="uipath" width="50" height="40"/> </a>  
 
   <!--C#-->
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 

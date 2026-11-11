@@ -7,18 +7,14 @@
 - 🔭 I am currently studying and practicing automation using Python;
 - 🤝 I had 3.5 years of experience developing automations with UiPath;
 
-<style>
-  .imagem-espacada {
-    margin-right: 15px; /* Adiciona 15 pixels de espaço à direita */
-  }
-</style>
+
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
 <p align="left"> 
 
   <!--RPA Uipath-->
   <a href="https://www.uipath.com/pt/" target="_blank"> 
-    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="150" height="120"/> </a>  
+    <img src="https://www.kodakalaris.com/sites/default/files/styles/webp/public/news/uipath-tagline-lockup-orange.png.webp" alt="uipath" width="150" height="120" style="margin-right: 15";/> </a>  
 
   <!--C#-->
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
